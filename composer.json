@@ -1,5 +1,5 @@
 {
-    "name": "wyndow/fuzzywuzzy",
+    "name": "bisnow/fuzzywuzzy",
     "description": "Fuzzy string matching based on FuzzyWuzzy from Seatgeek",
     "type": "library",
     "license": "MIT",
